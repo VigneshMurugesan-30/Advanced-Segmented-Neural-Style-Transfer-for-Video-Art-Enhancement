@@ -71,3 +71,12 @@ The project demonstrates successful application of neural style transfer, creati
 ## Contact
 For more details, feel free to reach out at vigneshmurugesan309@gmail.com
 
+---
+
+## GIF Demonstrations
+
+### Background Style Transfer
+![Background Style Transfer](https://github.com/VigneshMurugesan-30/Advanced-Segmented-Neural-Style-Transfer-for-Video-Art-Enhancement/blob/main/results/background-gif.gif)
+
+### Foreground Style Transfer
+![Foreground Style Transfer](https://github.com/VigneshMurugesan-30/Advanced-Segmented-Neural-Style-Transfer-for-Video-Art-Enhancement/blob/main/results/foreground-gif.gif)
